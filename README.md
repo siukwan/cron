@@ -36,7 +36,7 @@ sudo /sbin/service crond restart
 Enjoy it!
 
 you can check it in the ndcRobot:
-https:/github.com/ndcRobot
+https://github.com/ndcRobot
 
 
 cron
@@ -75,4 +75,4 @@ sudo /sbin/service crond restart
 ```
 
 目前实验室的机器正在跑，定时为15分钟更新IP信息：
-https:/github.com/ndcRobot
+https://github.com/ndcRobot
