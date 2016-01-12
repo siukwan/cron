@@ -16,6 +16,10 @@ A simple linux cron job to git the project, you can git everyday or every interv
 
 git clone git@github.com:XXXX/cron.git
 
+cd cron
+
+chmod +x cron.sh
+
 crontab -e
 
 #copy crontab to these
@@ -52,6 +56,10 @@ cron
 #fork这个项目，然后输入下面的命令
 
 git clone git@github.com:XXXX/cron.git
+
+cd cron
+
+chmod +x cron.sh
 
 crontab -e
 
